@@ -31,7 +31,7 @@ The website consists of the following sections:
 
 ## Contributions
 
-While this is a personal website, I'm open to suggestions and improvements. Feel free to open an issue or submit a pull request!
+While this is a personal website, I'm open to suggestions and improvements. I will also keep updating the website as my skillset keeps improving.Feel free to open an issue or submit a pull request!
 
 ## Contact
 
