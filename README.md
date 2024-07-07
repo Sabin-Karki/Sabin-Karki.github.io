@@ -36,7 +36,6 @@ While this is a personal website, I'm open to suggestions and improvements. Feel
 ## Contact
 
 - GitHub: [@Sabin-Karki](https://github.com/Sabin-Karki)
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: sabinpandl@gmail.com
 
 Thank you for visiting my portfolio!
