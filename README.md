@@ -24,10 +24,6 @@ The website consists of the following sections:
 - JDBC Projects (Bank Management System and Student Management System)
 - JavaScript Project Collection
 
-## How to Run Locally
-
-1. Clone this repository
-2. Open `index.html` in your web browser
 
 ## Contributions
 
